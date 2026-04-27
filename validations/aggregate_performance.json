@@ -1,0 +1,10 @@
+{
+  "schema_version": "0.1",
+  "description": "Rolling accuracy metrics. Updated by the validation sweep. Empty until first validations land.",
+  "as_of": null,
+  "total_validated": 0,
+  "calibration_active": false,
+  "calibration_method": null,
+  "by_cell": {},
+  "by_module": {}
+}

@@ -1,0 +1,5 @@
+{
+  "schema_version": "0.1",
+  "description": "Searchable index of every suggestion ever produced. Append-only.",
+  "entries": []
+}
